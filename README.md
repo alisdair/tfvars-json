@@ -13,5 +13,5 @@ $ tfvars-json file.tfvars > file.tfvars.json
 ## Installation
 
 ```shellsession
-$ go get github.com/alisdair/tfvars-json
+$ go install github.com/alisdair/tfvars-json@latest
 ```
